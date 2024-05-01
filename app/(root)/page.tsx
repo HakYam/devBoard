@@ -12,7 +12,7 @@ import {
   return (
     <div>
       
-      home -
+      <h1 className='h1-bold'>This test</h1>
       <UserButton afterSignOutUrl='/'/>
     </div>
   )
